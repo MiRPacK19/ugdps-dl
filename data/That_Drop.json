@@ -8,5 +8,29 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "MiRPacK19",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        }, 
+        {
+            "user": "cyndaver",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "astronaut",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        },
+        {
+            "user": "MemochelGD",
+            "link": "",
+            "percent": 100,
+            "hz": ""
+        }
     ]
 }
